@@ -8,7 +8,7 @@ setuptools.setup(
   author = 'seokjinbae',
   autor_email='1923926@donga.ac.kr',
   url="https://github.com/SeokJinB/mycalc/new/main",
-  downloadurl = "https://github.com/SeokJinB/mycalc/new/main",
+  downloadurl = "https://github.com/SeokJinB/mycalc/releases/tag/v1.0.0.zip",
   install_reqires=['pytest'],
   long_description='oss-dev calculator python module',
   long_description_content_type='text/markdown';,
